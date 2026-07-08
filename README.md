@@ -1,7 +1,5 @@
 # Covid-19 Pandemic: A Comprehensive Data Analysis with SQL & Tableau
 
-![Covid19-](Covid19_Banner.png)
-
 
 - **Brief Introduction**
 
@@ -234,7 +232,7 @@ Output:
 
 ## Covid-19 Global Impact Analysis Dashboard on Tableau
 
-![Covid-19 Vaccination Analysis](Covid19_Dashboard.png)
+![Covid-19 Vaccination Analysis](Covid19.....jpg)
 
 
 ## Global Overview
